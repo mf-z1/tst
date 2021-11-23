@@ -1,1 +1,2 @@
 print('xuexi')
+print('xuexi')
